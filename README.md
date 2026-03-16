@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📋 MERN Form Builder
 
 A full-stack Form Builder application built with **MongoDB, Express, React, and Node.js**.
@@ -83,3 +84,7 @@ npm start
 | POST   | /api/forms       | Create new form    |
 | PUT    | /api/forms/:id   | Update form        |
 | DELETE | /api/forms/:id   | Delete form        |
+=======
+# form-builder
+Dynamic Form Builder web application built with the MERN stack that allows users to create, preview, and submit customizable forms with real-time rendering.
+>>>>>>> fe5a1a2d133df9cf3cc91a7b5322d92b49a9bea6
