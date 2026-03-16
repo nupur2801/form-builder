@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+**Note: Removed node_modules blackhole**
+
 # 📋 MERN Form Builder
 
 A full-stack Form Builder application built with **MongoDB, Express, React, and Node.js**.
